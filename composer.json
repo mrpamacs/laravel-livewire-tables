@@ -1,6 +1,8 @@
 {
     "name": "mrpamacs/laravel-livewire-tables",
     "description": "A dynamic table component for Laravel Livewire",
+    "version":"1.0",
+    "type":"library",
     "keywords": [
         "rappasoft",
         "livewire",
