@@ -1,12 +1,13 @@
 {
-    "name": "rappasoft/laravel-livewire-tables",
+    "name": "mrpamacs/laravel-livewire-tables",
     "description": "A dynamic table component for Laravel Livewire",
     "keywords": [
         "rappasoft",
         "livewire",
         "datatables",
         "tables",
-        "laravel"
+        "laravel",
+        "mrpamacs"
     ],
     "homepage": "https://github.com/rappasoft/laravel-livewire-tables",
     "license": "MIT",

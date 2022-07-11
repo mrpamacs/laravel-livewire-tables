@@ -233,4 +233,8 @@ trait ColumnHelpers
 
         return $all;
     }
+
+    public function setColumnAttributes(array $attributes = []) {
+        $this->columnAttributes = array_merge($this->columnAttributes ?? [], $attributes);
+    }
 }
